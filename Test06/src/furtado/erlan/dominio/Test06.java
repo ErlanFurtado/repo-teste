@@ -1,2 +1,4 @@
-package furtado.erlan.dominio;public class Test06 {
+package furtado.erlan.dominio;
+
+public class Test06 {
 }
