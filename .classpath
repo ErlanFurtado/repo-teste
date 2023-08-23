@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry excluding="Test03/src/|Test06/src/|Repositorio/src/|tarefamod033/src/|Test07/src/|Test04/src/|Test05/src/|Test02/src/" kind="src" path=""/>
+	<classpathentry kind="src" path="Repositorio/src"/>
+	<classpathentry kind="src" path="tarefamod033/src"/>
+	<classpathentry kind="src" path="Test02/src"/>
+	<classpathentry kind="src" path="Test03/src"/>
+	<classpathentry kind="src" path="Test04/src"/>
+	<classpathentry kind="src" path="Test05/src"/>
+	<classpathentry kind="src" path="Test06/src"/>
+	<classpathentry kind="src" path="Test07/src"/>
+	<classpathentry kind="output" path="Test02/out/production/Test02"/>
+</classpath>
